@@ -9,6 +9,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ### Overview
 The Dismissal Application will help users communicate with schools concerning their child's leaving school. I'm a teacher and I've experienced the fear of possibly loosing a student because when their parent arrived, the child was no where to be found.  I've also seen parents become inpatient with school staff because they came to pick up their child unannounced and they are on a tight schedule. 
 This program will allow parents to communicate with schools concerning transportation changes and early pick ups. Parents will be able to login into their account, verify their child's information and choose the transportation change, and/or early pick up time. This will allow the school to be prepared for any students leaving early and will help keep track of how students get home just incase a parent can not locate their child.
+
 ### Features
 User Login- Users will login and create an account.
 Student Search - Users will search database to find their child to connect to their account.
