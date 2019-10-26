@@ -16,7 +16,6 @@ Include a link to your public Trello board. Be sure you have user stories added 
 
 https://trello.com/b/5Q8ziiDh/dismissal-app
 
-
 ### Project Repo Link
 
 Include a link to your project on GitHub.
