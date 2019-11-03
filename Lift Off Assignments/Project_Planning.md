@@ -5,10 +5,6 @@ For this assignment, you'll create some initial plans for your project.
 [Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
 
 ## Submission Instructions
-<<<<<<< HEAD
-
-=======
->>>>>>> 0a5a6da86135166d2cb45ad5cdbf64324b17340d
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
